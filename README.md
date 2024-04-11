@@ -540,6 +540,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Red Team Cheatsheets](https://0xsp.com/offensive/red-team-cheatsheet/)
 - [Blue Team Cheatsheets](https://guidance.ctag.org.uk/blue-team-cheatsheet)
 - [Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
+- [Kitsun3 Pentesting Cheatsheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
 
 ## ♟️ Exploitation
 
