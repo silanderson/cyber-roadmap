@@ -125,6 +125,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 ## 🗺️ Cyber Security roadmap
 
 ![Cyber Security roadmap](https://i.imgur.com/eq4uu7P.jpg)
+<p align="center">
+  <img width="700" height="900" src="https://media.licdn.com/dms/image/D4D22AQHO6NBmqHG4Ig/feedshare-shrink_800/0/1712951157439?e=1715817600&v=beta&t=hOP7oD3ab20d8VOj6Fts3CrI5TKumpXet21Ru9QB_Pw">
+</p>
 
 ## 🔧 Ferramentas para tradução de conteúdo
 > Muito do conteúdo desse repositório pode se encontrar em um idioma diferente do Português , desta maneira, fornecemos algumas ferramentas para que você consiga realizar a tradução do conteúdo, lembrando que o intuito desse guia é fornecer todo o conteúdo possível para que você possa se capacitar na área de Cyber Security independente do idioma a qual o material é fornecido, visto que se você possuí interesse em consumir esse material isso não será um empecilho para você continue seus estudos.
