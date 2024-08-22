@@ -413,6 +413,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um profis
 - [Null Byte](https://www.youtube.com/c/NullByteWHT) - Segurança cibernética para hackers éticos e cientistas da computação.
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow) - Envolve hacking, vídeos de gravação e capture the flags.
 - [The PC Security Channel](https://www.youtube.com/c/thepcsecuritychannel) - Segurança do Windows, notícias sobre malware e tutoriais.
+- [ZSecurity](https://www.youtube.com/@zSecurity) - Treinamento em hacking ético e segurança cibernética.
 
 ## 🔎 Ferramentas de busca
 
